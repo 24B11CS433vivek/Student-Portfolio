@@ -1,23 +1,31 @@
 # Technical Skills
 
-Replace these examples with skills you can confidently discuss in an interview.
+## Languages
+- Python, JavaScript, SQL, HTML5, CSS3
 
-## Programming Languages
-- Java — Beginner / Intermediate
-- Python — Beginner / Intermediate
-- C — Beginner
+## Frontend
+- React.js, Vite, Three.js, PWA, Responsive Design
 
-## Web Technologies
-- HTML
-- CSS
-- JavaScript (currently learning)
+## Backend
+- Node.js, Express.js, Flask, Streamlit, REST API
+
+## Databases and Cloud
+- Firebase, MongoDB, Cloudflare Workers, Netlify, Render
+
+## Machine Learning and Data
+- Scikit-learn, XGBoost, Pandas, NumPy, Feature Engineering, Logistic Regression
+
+## Security
+- Kali Linux, Burp Suite, Wireshark, Nmap, Penetration Testing
+
+## AI and Automation
+- Ollama, LLM Integration, ReAct Agents, HuggingFace, TamperMonkey
 
 ## Developer Tools
-- Git
-- GitHub
-- Visual Studio Code
+- Git, GitHub, CI/CD, VS Code, Firebase Hosting
 
-## Skills to Improve
-- Data Structures and Algorithms
-- SQL and database fundamentals
-- Testing and debugging
+## Learning Goals
+- Deepen web application security and ethical hacking skills
+- Strengthen data structures and algorithms
+- Build and ship larger full-stack and ML projects
+- Secure an internship for Summer 2027 and contribute to open source
