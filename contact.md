@@ -1,11 +1,9 @@
 # Contact
 
-Use only professional contact information you are comfortable making public.
-
 - **Name:** Talagaturi Vivek
-- **Email:** v77860538@gmail.com
+- **Email:** vivektalagaturi@gmail.com
 - **GitHub:** https://github.com/24B11CS433vivek
-- **LinkedIn:** Add your profile URL if available
-- **Location:** India
+- **LinkedIn:** https://www.linkedin.com/in/talagaturi-vivek
+- **Location:** Kakinada, Andhra Pradesh, India
 
-**Privacy reminder:** Do not publish your home address, passwords, access tokens, or other sensitive information in a public repository.
+**Privacy reminder:** Only professional contact information is published here. No home address, passwords or access tokens.
